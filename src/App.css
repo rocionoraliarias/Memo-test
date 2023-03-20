@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+}
+
+body{
+  max-width: 800px;
+  min-height: 100vh;
+  margin: auto;
+  display: flex;
+  place-items: center;
+  background-color: #002B5B;
+}
+
+main{
+  padding: 1rem;
+}
